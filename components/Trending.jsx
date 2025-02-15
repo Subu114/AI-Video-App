@@ -47,6 +47,7 @@ const TrendingItem = ({ activeItem, item }) => {
             style = {{width : 180, height : 280, borderRadius : 20, marginTop : 3, backgroundColor : 'black'}}
             allowsFullscreen
             allowsPictureInPicture
+            nativeControls
           />
       ) : (
         <TouchableOpacity
