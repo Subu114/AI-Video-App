@@ -54,7 +54,7 @@ An AI-powered video-sharing app where users can upload AI-generated videos and e
 
 3. Start the app:
    ```sh
-   npx expo start
+   npm run start
    ```
 
 ## 📄 License
