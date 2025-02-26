@@ -57,9 +57,6 @@ An AI-powered video-sharing app where users can upload AI-generated videos and e
    npm run start
    ```
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 💡 Feel free to contribute! Open a PR or report issues if you have any ideas or improvements. 🚀
