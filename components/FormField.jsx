@@ -7,7 +7,7 @@ const FormField = ({title, value, placeholder, handleChangeText, otherStyles, ..
     const [isFocused, setIsFocused] = useState(false)
     return (
     <View className={`space-y-2 ${otherStyles}`}>
-      <Text className='text-base text-gray-100 font-pmedium'>{title}</Text>
+      <Text className='text-base text-gray-100 font-pmedium mb-1'>{title}</Text>
       <View 
         className={`w-full h-16 px-4 bg-black-100 border-2 rounded-2xl ${isFocused ? 'border-secondary-200' : 'border-black-200'} items-center flex-row`}
       >
